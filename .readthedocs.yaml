@@ -21,8 +21,6 @@ formats:
    - pdf
 
 # Optionally declare the Python requirements required to build your docs
-python:
-  version: "3.8"
 
 sphinx:
   fail_on_warning: true
